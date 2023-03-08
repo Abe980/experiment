@@ -1,0 +1,15 @@
+C:\teach\gb\lang_prog\experiment\bin\Debug\net6.0\experiment.exe
+C:\teach\gb\lang_prog\experiment\bin\Debug\net6.0\experiment.deps.json
+C:\teach\gb\lang_prog\experiment\bin\Debug\net6.0\experiment.runtimeconfig.json
+C:\teach\gb\lang_prog\experiment\bin\Debug\net6.0\experiment.dll
+C:\teach\gb\lang_prog\experiment\bin\Debug\net6.0\experiment.pdb
+C:\teach\gb\lang_prog\experiment\obj\Debug\net6.0\experiment.csproj.AssemblyReference.cache
+C:\teach\gb\lang_prog\experiment\obj\Debug\net6.0\experiment.GeneratedMSBuildEditorConfig.editorconfig
+C:\teach\gb\lang_prog\experiment\obj\Debug\net6.0\experiment.AssemblyInfoInputs.cache
+C:\teach\gb\lang_prog\experiment\obj\Debug\net6.0\experiment.AssemblyInfo.cs
+C:\teach\gb\lang_prog\experiment\obj\Debug\net6.0\experiment.csproj.CoreCompileInputs.cache
+C:\teach\gb\lang_prog\experiment\obj\Debug\net6.0\experiment.dll
+C:\teach\gb\lang_prog\experiment\obj\Debug\net6.0\refint\experiment.dll
+C:\teach\gb\lang_prog\experiment\obj\Debug\net6.0\experiment.pdb
+C:\teach\gb\lang_prog\experiment\obj\Debug\net6.0\experiment.genruntimeconfig.cache
+C:\teach\gb\lang_prog\experiment\obj\Debug\net6.0\ref\experiment.dll
